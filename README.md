@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ElementStudio, a web designing and development studio
+- 👋 Hi, I’m @ElementStudio, a web design and development studio
 - 👀 I’m interested in Software development, App development, Data Science and AI 
 - 🌱 I’m currently learning AI, React, R programming, Python, Android studio with java 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me at elementstudios.sa@gmail.com or Miststudios.sa@gmail.com
 
 <!---
